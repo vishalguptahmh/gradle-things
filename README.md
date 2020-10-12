@@ -590,3 +590,4 @@ see PMD https://docs.gradle.org/current/userguide/pmd_plugin.html#header
 Allows you to run gradle tasks without requiring that gradle  to be installed on your system.
 
 ### Difference between api and implementation
+https://medium.com/mindorks/implementation-vs-api-in-gradle-3-0-494c817a6fa
